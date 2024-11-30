@@ -5,7 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-twitter_dapp = "8AN6amJ4bGBL6iCyYh1dC1xcSNk2Y4zHho9usPixyedj"
+twitter_dapp = "5p8zwC7vtT6zwLEF8kvj7EcQ5UKsYT5NDTqhBwtQ5fvd"
 
 [registry]
 url = "https://api.apr.dev"

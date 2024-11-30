@@ -15,7 +15,7 @@ pub mod errors;
 pub mod instructions;
 pub mod states;
 
-declare_id!("F6NKeaoPbchYnbcJZ5YSAqfMcHuP7GLExTuDK3qmgtgW");
+declare_id!("5p8zwC7vtT6zwLEF8kvj7EcQ5UKsYT5NDTqhBwtQ5fvd");
 
 #[program]
 pub mod twitter {
